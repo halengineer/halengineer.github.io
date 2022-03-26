@@ -59,3 +59,13 @@ img{
   margin-left: 20px;
   margin-right: 20px;
 }
+
+.footer{
+  color: #ffffff;
+  background-color: #24211b;
+  padding-top: 30px;
+  padding-buttom: 15px;
+  display: flex;
+  flex-direction: column;
+  aline-items: center;
+}

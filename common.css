@@ -51,11 +51,11 @@ display: block;
 width: 170px;
 }
 
-.site-menu ul {
+.site-menu ul{
 display: flex;
 }
 
-.site-menu ul li {
+.site-menu ul li{
 margin-left: 20px;
 margin-right: 20px;
 }

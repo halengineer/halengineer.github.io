@@ -46,11 +46,9 @@ align-items: center;
 display: none;
 }
 
-.header-logo img{
+.header-logo {
 display: block;
-width: 20%;
-hight: auto;
-
+width: 170px;
 }
 
 .site-menu ul{

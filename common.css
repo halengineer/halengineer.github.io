@@ -46,7 +46,7 @@ align-items: center;
 display: none;
 }
 
-.header-logo {
+.header-logo img{
 display: block;
 width: 20%;
 hight: auto;

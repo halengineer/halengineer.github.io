@@ -9,15 +9,3 @@ background-size: cover;
 display: flex;
 align-items: center;
 }
-
-.first-view-text{
-width: 100%;
-max-width: 1200px;
-margin-left: auto;
-margin-right: auto;
-padding-left: 40px;
-padding-bottom: 80p;
-color: #ffffff;
-font-weight: bold;
-text-shadow: 1px 1px 10px #4b2c14
-}

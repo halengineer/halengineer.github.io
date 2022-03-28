@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 .first-view{
-height: calc(100vh-110px);
+height: calc(100vh - 110px);
 background-image: url(https://github.com/halengineer/halengineer.github.io/blob/main/color.jpg);
 background-repeat: no-rpeat;
 background-position: center center;
@@ -10,3 +10,14 @@ display: flex;
 align-items: center;
 }
 
+.first-view-text{
+width: 100%;
+max-width: 1200px;
+margin-left: auto;
+margin-right: auto;
+padding-left: 40px;
+padding-bottom: 80p;
+color: #ffffff;
+font-weight: bold;
+text-shadow: 1px 1px 10px #4b2c14
+}

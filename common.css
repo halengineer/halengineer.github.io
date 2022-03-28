@@ -48,7 +48,8 @@ display: none;
 
 .header-logo {
 display: block;
-width: 170px;
+width: 20%;
+hight: auto;
 }
 
 .site-menu ul{

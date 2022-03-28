@@ -47,8 +47,10 @@ display: none;
 }
 
 .header-logo img{
-width: 10%;
-height: auto; 
+display: block;
+width: 20%;
+hight: auto;
+
 }
 
 .site-menu ul{

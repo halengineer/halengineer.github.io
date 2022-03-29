@@ -82,7 +82,17 @@ img {
 
 .first-view {
   height: clac(100vh - 110px);
-  backdround-image: url()
+  backdround-image: url(https://github.com/halengineer/halengineer.github.io/blob/main/color.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+}
+
+.first-view-text {
+  width: 100%;
+  max-width: 1200px;
 }
 
 

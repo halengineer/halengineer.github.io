@@ -80,6 +80,13 @@ img {
 }
 /*  ▲ナビ空白設定 　*/
 
+.first-view {
+  height: clac(100vh - 110px);
+  backdround-image: url()
+}
+
+
+
 /*  ▼フッター設定 　*/
 .footer {
   color: #ffffff;
@@ -91,12 +98,6 @@ img {
   align-items: center;
 }
 /*  ▲フッター設定 　*/
-
-
-.first-view {
-  height: 100vh;
-}
-
 
 /*  【重要】以下のCSSは800px以下の時だけ適応【重要】 　*/
 

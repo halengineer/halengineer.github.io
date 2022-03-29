@@ -1,6 +1,7 @@
 @charset "utf-8";
 
 .first-view{
-background-image: url(https://github.com/halengineer/halengineer.github.io/blob/main/color.jpg);
+  height: calc(100vh - 110px);
+  background-image: url(https://github.com/halengineer/halengineer.github.io/blob/main/color.jpg);
 }
 

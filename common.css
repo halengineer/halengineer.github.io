@@ -79,6 +79,7 @@ img{
 }
 /*  ▲ナビ空白設定 　*/
 
+/*  ▼フッター設定 　*/
 .footer{
   color: #ffffff;
   background-color: #24211b;
@@ -88,3 +89,20 @@ img{
   flex-direction: column;
   align-items: center;
 }
+/*  ▲フッター設定 　*/
+
+/*  【重要】以下のCSSは800px以下の時だけ適応【重要】 　*/
+
+/*  ▼ナビゲーションメニュー中央揃え 　*/
+@media (max-width: 800px){
+  .site-menu ul {
+    display: block;
+    text-align: center;
+  }
+}
+/*  ▲ナビゲーションメニュー中央揃え 　*/
+
+
+
+
+

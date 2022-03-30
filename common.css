@@ -68,3 +68,7 @@ img {
   display: flex;
   align-items: center;
 }
+
+.first-view{
+  height: 100vh;
+}

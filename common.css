@@ -95,6 +95,10 @@ img {
   max-width: 1200px;
 }
 
+.flex-container {
+  display: flex;
+  firex-direction: row;
+}
 
 /*  ▼フッター設定 　*/
 .footer {

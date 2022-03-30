@@ -55,11 +55,6 @@ img {
   display: flex;
 }
 
-.site-menu ul li {
-  margin-left: 20px;
-  margin-right: 20px;
-}
-
 .first-view {
   height: 100vh;
   background-image: url(color.jpg);

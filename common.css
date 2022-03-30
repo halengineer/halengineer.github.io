@@ -93,6 +93,16 @@ img {
   margin-top: 20px;
 }
 
+.lead {
+  max-width: 1200px;
+  margin: 60px auto;
+}
+
+.lead p {
+  line-height: 2;
+  text-align: center;
+}
+
 .footer {
   color: #ffffff;
   background-color: #24211b;

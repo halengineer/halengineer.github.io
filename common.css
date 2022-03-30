@@ -48,6 +48,8 @@ img {
 
 .header-logo {
   display: block;
+  width: 75%;
+  hight: 75%;
 }
 
 .site-menu ul {

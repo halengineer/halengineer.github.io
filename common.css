@@ -61,7 +61,8 @@ img {
 }
 
 .first-view {
-  height: 100vh;
+  height: calc(100vh - 110px);
+  background-image: url(color.jpg);
 }
 
 .footer {

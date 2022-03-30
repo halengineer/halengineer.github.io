@@ -82,7 +82,7 @@ img {
 
 .first-view {
   height: clac(100vh - 110px);
-  backdround-image:url(https://github.com/halengineer/halengineer.github.io/blob/main/color.jpg);
+  backdround-image: url("color.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;

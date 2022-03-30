@@ -62,7 +62,7 @@ img {
 
 .first-view {
   height: 100vh;
-  background-image: url();
+  background-image: url(color.jpg);
 }
 
 .footer {

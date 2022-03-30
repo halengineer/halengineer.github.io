@@ -60,6 +60,10 @@ img {
   margin-right: 20px;
 }
 
+.first-view {
+  height: 100vh;
+}
+
 .footer {
   color: #ffffff;
   background-color: #24211b;

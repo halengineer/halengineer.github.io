@@ -125,7 +125,7 @@ img {
 .feature {
   display: flex;
   justify-content: space-between;
-  width: 930px;
+  width: 980px;
   max-width: 90%;
   margin-top: 75px;
   margin-left: auto;

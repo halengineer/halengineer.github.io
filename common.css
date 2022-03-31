@@ -105,6 +105,9 @@ img {
 
 .title {
   background-color: #4b2c14;
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
 }
 
 .feature {

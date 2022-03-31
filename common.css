@@ -103,6 +103,16 @@ img {
   text-align: center;
 }
 
+.title {
+  height: 100px;
+  background-color: #42bbc4;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}
+
 .feature {
   background-color: #f8f8f8;
   padding-top: 45px;

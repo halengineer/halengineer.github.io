@@ -62,7 +62,7 @@ img {
 
 .first-view {
   height: calc(100vh - 110px);
-  background-image: url(../images/index/bg-color.jpg);
+  background-image: url(../images/index/color.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;

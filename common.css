@@ -113,6 +113,15 @@ img {
   color: #ffffff;
 }
 
+.title h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.title p {
+  margin-top: 5px;
+}
+
 .feature {
   background-color: #f8f8f8;
   padding-top: 45px;

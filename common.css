@@ -133,11 +133,22 @@ img {
   align-items: flex-start;
 }
 
+.feature img {
+  width: 360px;
+}
 
-.feature {
-  background-color: #f8f8f8;
-  padding-top: 45px;
-  padding-bottom: 55px;
+.feature-text {
+  max-width: 500px;
+  margin-right: 40px;
+}
+
+.reverse {
+  flex-direction: row-reverse;
+}
+
+.reverse .feature-text {
+  margin-left: 40px;
+  margin-right: 0;
 }
 
 .feature h2 {

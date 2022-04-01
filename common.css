@@ -151,18 +151,6 @@ img {
   margin-right: 0;
 }
 
-.contents1 h2{
-  font-size: 22px;
-  font-wight: bold;
-  text-align: center;
-}
-
-.contents1 p {
-  font-size: 15px;
-  line-height: 28px;
-  margin-top: 20px;
-}
-
 .feature-text h2 {
   font-size: 22px;
   font-weight: bold;
@@ -174,6 +162,20 @@ img {
   line-height: 28px;
   margin-top: 25px;
   margin-bottom: 12px;
+}
+
+.contents1 h2{
+  font-size: 22px;
+  font-wight: bold;
+  text-align: center;
+}
+
+.contents1 p {
+  font-size: 15px;
+  width: 980px;
+  max-width: 90%;
+  line-height: 28px;
+  margin-top: 20px;
 }
 
 .contents2 {
@@ -255,6 +257,8 @@ img {
 
 .contents3 p {
   font-size: 15px;
+  width: 980px;
+  max-width: 90%;
   line-height: 28px;
   margin-top: 20px;
 }

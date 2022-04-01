@@ -151,6 +151,19 @@ img {
   margin-right: 0;
 }
 
+.contents1-text h2 {
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 30px;
+}
+
+.contents1-text p {
+  font-size: 15px;
+  line-height: 28px;
+  margin-top: 25px;
+  margin-bottom: 12px;
+}
+
 .feature-text h2 {
   font-size: 22px;
   font-weight: bold;
@@ -233,6 +246,19 @@ img {
   font-size: 15px;
   line-height: 28px;
   margin-top: 20px;
+}
+
+.contents3-text h2 {
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 30px;
+}
+
+.contents3-text p {
+  font-size: 15px;
+  line-height: 28px;
+  margin-top: 25px;
+  margin-bottom: 12px;
 }
 
 .footer {

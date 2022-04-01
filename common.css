@@ -164,6 +164,49 @@ img {
   margin-bottom: 12px;
 }
 
+.contents2 {
+  display: flex;
+  justify-content: space-between;
+  width: 980px;
+  max-width: 90%;
+  margin-top: 75px;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: flex-start;
+}
+
+.contents2 img {
+  width: 360px;
+}
+
+.contents2-text {
+  max-width: 500px;
+  margin-right: 40px;
+}
+
+.reverse {
+  flex-direction: row-reverse;
+}
+
+.reverse .contents2-text {
+  margin-left: 40px;
+  margin-right: 0;
+}
+
+.contents2-text h2 {
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 30px;
+}
+
+.contents2-text p {
+  font-size: 15px;
+  line-height: 28px;
+  margin-top: 25px;
+  margin-bottom: 12px;
+}
+
+
 .movie {
   width: 930px;
   max-width: 90%;

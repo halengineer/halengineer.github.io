@@ -151,28 +151,16 @@ img {
   margin-right: 0;
 }
 
-.contents1-text h2 {
+.contents1 h2{
   font-size: 22px;
-  font-weight: bold;
-  line-height: 30px;
+  font-wight: bold;
+  text-align: center;
 }
 
-.contents1-text p {
+.contents1 p {
   font-size: 15px;
   line-height: 28px;
-  margin-top: 25px;
-  margin-bottom: 12px;
-}
-
-.contents1 {
-  display: flex;
-  justify-content: space-between;
-  width: 980px;
-  max-width: 90%;
-  margin-top: 75px;
-  margin-left: auto;
-  margin-right: auto;
-  align-items: flex-start;
+  margin-top: 20px;
 }
 
 .feature-text h2 {
@@ -259,28 +247,16 @@ img {
   margin-top: 20px;
 }
 
-.contents3-text h2 {
+.contents3 h2{
   font-size: 22px;
-  font-weight: bold;
-  line-height: 30px;
+  font-wight: bold;
+  text-align: center;
 }
 
-.contents3-text p {
+.contents3 p {
   font-size: 15px;
   line-height: 28px;
-  margin-top: 25px;
-  margin-bottom: 12px;
-}
-
-.contents3 {
-  display: flex;
-  justify-content: space-between;
-  width: 980px;
-  max-width: 90%;
-  margin-top: 75px;
-  margin-left: auto;
-  margin-right: auto;
-  align-items: flex-start;
+  margin-top: 20px;
 }
 
 .footer {

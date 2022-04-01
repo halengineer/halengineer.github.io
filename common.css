@@ -151,10 +151,16 @@ img {
   margin-right: 0;
 }
 
-.feature h2 {
+.feature-text h2 {
   font-size: 22px;
   font-weight: bold;
-  text-align: center;
+  line-height: 30px;
+}
+
+.feature-text p {
+  font-size: 15px;
+  line-height: 28px;
+  margin-top: 25px;
 }
 
 .footer {
